@@ -1,6 +1,6 @@
 # RubrikClusterInformation
 
-*   Title: Get Rubrik Ids
+*   Title: RubrikClusterInformation
  *  Author: Drew Russell - Rubrik Ranger Team
  *  Edited: Michael Levit - Rubrik SE @innocom.co.il  
     *   E-Mail: Michaell@innocom.co.il
